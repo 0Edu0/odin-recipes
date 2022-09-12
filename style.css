@@ -1,0 +1,35 @@
+#Title {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+    color: brown;
+}
+
+.Banana-Recipe, .Sandwiches-Recipe, .Potatoes-Recipe {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bolder;
+}
+
+.Banana-Recipe {
+    background-color: yellow;
+}
+
+.Sandwiches-Recipe {
+    background-color: lightsalmon;
+}
+
+.Potatoes-Recipe {
+    background-color: lightpink;
+
+}
+
+body {
+    background-color: lightcyan;
+}
+
+
+
+

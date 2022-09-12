@@ -1,0 +1,20 @@
+.Title {
+    text-align: 800;
+    margin-left: 800px;
+    margin-right: 800px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Desc {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: lemonchiffon;
+}
+
+ul {
+    text-align: center;
+}
+
